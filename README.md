@@ -17,6 +17,10 @@ To implement a morphological image processing pipeline using OpenCV in Python to
 
 ## PROGRAM:
 ```
+NAME: OVIYA N
+REG.NO: 212223040140
+```
+```
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
@@ -98,6 +102,10 @@ plt.show()
 print(f"Total Coins Detected by Blob Detection: {blob_count}")
 print(f"Total Coins Detected by Contour Analysis: {contour_count}")
 ```
+
+## OUTPUT:
+<img width="1043" height="309" alt="image" src="https://github.com/user-attachments/assets/c7f20b0a-9aff-49ce-9fc5-60210def17f8" />
+
 
 ## RESULT:
 The morphological object counting system was successfully constructed and verified. Both the Blob Detection and Contour Analysis methods effectively isolated and recorded the target coins
